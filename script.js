@@ -9,7 +9,7 @@ change.addEventListener("click", (event) => {
 
 const change2 = document.getElementById("image2");
 
-change.addEventListener("click", (event) => {
+change2.addEventListener("click", (event) => {
   event.target.style.background = "green"
   event.target.style.color = "white"
 });
