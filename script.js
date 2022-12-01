@@ -15,3 +15,27 @@ change2.addEventListener("click", (event) => {
 });
   
 
+const change3 = document.getElementById("image3");
+
+change3.addEventListener("click", (event) => {
+  event.target.style.background = "blue"
+  event.target.style.color = "white"
+});
+
+const change4 = document.getElementById("image4");
+
+change4.addEventListener("click", (event) => {
+   event.target.style.background = "yellow"
+   event.target.style.color = "black"
+});
+
+
+
+  
+
+  
+
+
+
+  
+  
