@@ -1,0 +1,19 @@
+.imagename {
+    font-size: medium;
+    font-weight: bold;
+    color: #0b0b55;
+    text-align: center;
+}
+
+#topic {
+    font-size: larger;
+    font-weight: bolder;
+    color: #550c0c;
+    text-align: center;
+    margin-top: 10px;
+}
+
+img {
+    /* width: 200px; */
+    height: 200px !important;
+}
